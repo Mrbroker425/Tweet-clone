@@ -1,0 +1,52 @@
+
+.M1{
+    width: 50%;
+    height: 300px;
+    margin-left: 350px;
+    background-color: rgb(0, 202, 202);
+    margin-top: 156px;
+   border-radius: 10px 10px 18px;
+   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3), 0px 4px 8px rgba(0, 0, 0, 0.3), 0px 8px 16px rgba(0, 0, 0, 0.3);
+}
+img{
+    position: absolute;
+width: 120px;
+height: 70px;
+border-radius: 10px;
+margin-top: -270px;
+margin-left: 370px;
+display: flex;
+flex-wrap: wrap;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3), 0px 4px 8px rgba(0, 0, 0, 0.3), 0px 8px 16px rgba(0, 0, 0, 0.3);
+}
+.m2{
+    position: absolute;
+    width: 100px;
+    border-radius: 10px;
+    margin-top: -256px;
+    margin-left: 520px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight: 900;
+   
+}
+button{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 930px;
+margin-top: -260px;
+border: none;
+padding: 12px;
+border-radius: 12px;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3), 0px 4px 8px rgba(0, 0, 0, 0.3), 0px 8px 16px rgba(0, 0, 0, 0.3);
+}
+p{
+position: absolute;
+width: 600px;
+margin-top: -150px;
+margin-left: 400px;
+}
+.fix{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 700;
+font-size: larger;
+}
